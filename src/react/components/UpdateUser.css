@@ -1,0 +1,48 @@
+#update-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 20em;
+    width: 350px;
+    /* position: relative;
+    left: 150px; */
+    float: left;
+    margin: 25px auto 25px 40px;
+    align-content: center;
+}
+
+#userContainer {
+    display: block;
+    text-align: center;
+    margin-left: 220px; 
+}
+
+#update-title {
+    margin-left: 5px;
+}
+
+#save-changes {
+    color: #ffffff;
+    background-color: #74d14c;
+}
+
+#view-changes {
+    color: #ffffff;
+    background-color: #162A55;
+}
+
+#delete-alert {
+    margin-top: 25px;
+    margin-left: 40px;
+    width: 450px;
+    color: #ffffff;
+    text-align: left;
+}
+
+#updateCard {
+    background-color: #3e424c;
+    height: 500px;
+    width: 350px;
+    padding-top: 40px;
+    padding-bottom: 200px;
+}

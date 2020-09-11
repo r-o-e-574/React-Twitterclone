@@ -1,0 +1,18 @@
+
+#bubbles {
+    background-image: linear-gradient(to bottom, rgba(14, 14, 14, 0.68), rgba(0, 0, 0, 0.89)),
+    url('../../images/wisper_home.png');
+    padding-top: 85px;
+    padding-bottom: 300px;
+}
+
+#bunnyeyes-messagefeed{
+    width: 155px;
+  height: 77px;
+  position: absolute;
+  left: 265px;
+  top: -6px;
+  margin: 0;
+
+}
+

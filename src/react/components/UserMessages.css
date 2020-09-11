@@ -1,0 +1,71 @@
+#messagesU {
+    margin-bottom: 15px;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    width: 900px;
+}
+
+#messageU {
+    background-color: #3e424c;
+    margin-bottom: 10px;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 900px;
+}
+
+#message-Username{
+    margin-top: 0px;
+    margin-left: -225px;
+}
+
+#message-Text {
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
+
+#message-Text p {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+}
+
+
+/* #outlined-basic{
+    align-content: center;
+} */
+
+#Likes {
+    position: relative;
+    right: -20px;
+    bottom: 25px;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    color: #74d14c;
+    font-weight: bold;
+}
+
+#Like {
+    max-height: 48px;
+    position: relative;
+    right: -5px;
+    bottom: -10px;
+}
+
+#deleteU {
+    position: absolute;
+    top: 5;
+    left: 860px;
+    size: 0.3px;
+    padding: 0px;
+    opacity: .8;
+}
+
+#NdeleteU {
+    position: absolute;
+    top: 5;
+    left: 870px;
+    size: 0.3px;
+    padding: 0px;
+    color: #ffff
+}

@@ -1,0 +1,62 @@
+{
+    "name": "react-twitterclone",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@material-ui/icons": "^4.9.1",
+        "@material/dialog": "^5.1.0",
+        "@reduxjs/toolkit": "^1.2.5",
+        "avataaars": "^1.2.1",
+        "connected-react-router": "^6.5.2",
+        "express": "^4.17.1",
+        "googleapis": "^39.2.0",
+        "history": "^4.10.1",
+        "install-peerdeps": "^2.0.1",
+        "material-ui": "^0.20.2",
+        "material-ui-avatar-picker": "^1.0.4",
+        "material-ui-confirm": "^2.0.4",
+        "node-modules": "^1.0.1",
+        "passport-google-plus-token": "^2.1.0",
+        "react": "^16.13.0",
+        "react-dom": "^16.11.0",
+        "react-google-login": "^5.1.1",
+        "react-redux": "^7.1.3",
+        "react-router": "^5.1.2",
+        "react-router-dom": "^5.1.2",
+        "react-scripts": "^3.4.3",
+        "react-spinkit": "^3.0.0",
+        "reactjs-popup": "^1.5.0",
+        "redux": "^4.0.4",
+        "redux-auth-wrapper": "^2.1.0",
+        "serve": "^11.3.2"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject",
+        "build:graph-html": "depcruise --validate .dependency-cruiser.js --exclude '^node_modules' --output-type dot src | dot -T svg > dependencygraph.html"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ],
+    "devDependencies": {
+        "@material-ui/core": "^4.9.5",
+        "@material-ui/styles": "^4.9.0",
+        "@material-ui/system": "^4.9.3",
+        "@material-ui/utils": "^4.7.1",
+        "@types/node": "^13.7.1",
+        "dependency-cruiser": "^8.0.1",
+        "eslint-plugin-flowtype": "^3.13.0",
+        "immutable": "^3.8.2",
+        "jss": "^9.8.7",
+        "seamless-immutable": "^7.1.4",
+        "typescript": "^3.9.7"
+    }
+}

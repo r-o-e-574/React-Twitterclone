@@ -1,0 +1,40 @@
+
+#explore-paper {
+    background: #3e424c;
+    margin-bottom: 10px;
+}
+
+#display-nameE {
+    color: #ffffff;
+    /* padding: 10px; */
+}
+
+#aboutE {
+    color: #06d8ef;
+    /* padding: 10px; */
+}
+
+#usernameE {
+    color: #74d14c;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#exploreWrapper {
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-attachment: fixed;
+    background-size: contain;
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#explore-new-users, #explore-title {
+    color: #ffffff;
+}
+
+#searched{
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 2px dashed #ffffff;
+    margin: 20px;
+}

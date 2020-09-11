@@ -1,0 +1,40 @@
+:root {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: auto;
+    margin-top: 20px;
+}
+
+#signUpCard {
+    background-color: #3e424c;
+    height: 500px;
+    width: 350px;
+    padding-top: 40px;
+    padding-bottom: 500px;
+}
+
+#signup-form {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    margin: 10px auto 50px auto;
+    align-content: center;
+}
+
+#signup-button-form {
+    margin-left: 0px;
+    width: 250px;
+    background-color: #74d14c;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#login-link {
+    color: #3ea6ff;
+    margin: 25px auto 0 auto;
+}
+
+#signUpWrapper {
+    margin-top: 40px;
+}

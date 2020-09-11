@@ -1,0 +1,38 @@
+/* :root {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: auto;
+    margin-top: 20px;
+} */
+
+#logInCard {
+    background-color: #3e424c;
+    height: 500px;
+    width: 350px;
+    padding-top: 40px;
+    padding-bottom: 200px;
+}
+
+#login-form {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 250px;
+    margin: 25px auto 0 auto;
+    align-content: center;
+}
+
+#login-page-button {
+    background-color:#06d8ef;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#signup-link {
+    color: #3ea6ff;
+    margin: 25px auto 0 auto;
+}
+#loginWrapper {
+    margin-top: 40px;
+}

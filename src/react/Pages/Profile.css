@@ -1,0 +1,21 @@
+body {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: auto;
+    margin-top: 20px;
+}
+
+#bubbles {
+    background-image: linear-gradient(to bottom, rgba(14, 14, 14, 0.68), rgba(0, 0, 0, 0.89)),
+    url('../../images/wisper_home.png');
+    padding-top: 85px;
+    padding-bottom: 300px;
+} 
+
+/* #bubbles {
+    background-image: linear-gradient(to bottom, rgba(14, 14, 14, 0.68), rgba(0, 0, 0, 0.89)),
+    url('../../images/Updated_Logo.png');
+    padding-top: 85px;
+    padding-bottom: 300px;
+
+} */

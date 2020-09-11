@@ -1,0 +1,17 @@
+/* this root isn't doing anything */
+
+:root {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: auto;
+    margin-top: -20px;
+}
+
+#appBar {
+    margin-top: 20px;
+    background-color: #3e424c;
+}
+
+#menu-wispr {
+    height: 50px;
+}

@@ -1,0 +1,96 @@
+#messages {
+  margin-bottom: 15px;
+  font-family: Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-attachment: fixed;
+  background-size: contain;
+  /* Resize the background image to cover the entire container */
+}
+
+#message {
+  background: rgba(63, 67, 77, 0.8);
+  margin-bottom: 10px;
+  font-family: Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#message-username {
+  margin-top: 0px;
+  color: #1acb5b;
+}
+
+#usernameM {
+  color: #74d14c;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#message-text {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+#message-text p {
+  padding: 18px 18px 0px 18px;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+  color: #06d8ef;
+}
+
+/* #outlined-basic{
+    align-content: center;
+} */
+
+#likes {
+  position: relative;
+  right: -20px;
+  bottom: 25px;
+  font-family: Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: medium;
+  color: #1acb5b;
+  font-weight: bold;
+}
+
+#like {
+  max-height: 48px;
+  position: relative;
+  right: -5px;
+  bottom: -10px;
+}
+
+#delete {
+  margin-left: 285px;
+  margin-top: -335px;
+  size: 0.5px;
+  padding: 0px;
+  opacity: 0.8;
+}
+
+#wisper-box {
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+#comment-box {
+  height: 140px;
+  background: rgba(63, 67, 77, 0.8);
+}
+
+#post-button {
+  float: right;
+  color: white;
+  background: #1acb5b;
+}
+
+#character-count {
+  color: #1acb5b;
+  background: rgba(63, 67, 77, 0.8);
+}
+
+#bunnyeyes-messagefeed {
+  margin-left: 158px;
+  margin-bottom: -49px;
+}

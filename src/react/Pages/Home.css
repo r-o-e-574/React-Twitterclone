@@ -1,0 +1,106 @@
+:root {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: auto;
+    margin-top: 20px;
+}
+
+#bunny-eyes {
+    display: flex;
+    height: 200px;
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wispr {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+
+#LoginSignUp h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+#LoginSignUp h2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 50px auto 2px auto;
+}
+
+#LoginSignUp p {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    margin: 20px auto 20px auto;
+}
+
+#bubbles {
+    background-image: linear-gradient(to bottom, rgba(14, 14, 14, 0.68), rgba(0, 0, 0, 0.89)),
+    url('../../images/wisper_home.png');
+    padding-top: 85px;
+    padding-bottom: 300px;
+}
+
+#user-info {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#LoginSignUp {
+    background-color: #3e424c;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+#LoginSignUp h1 {
+   text-align: center;
+   margin: auto 0;
+}
+#LoginSignUp h5 {
+    text-align: center;
+ }
+
+ #LoginSignUp img {
+    margin-left: 160px;
+    height: 64px;
+    width: 64px;
+ }
+
+ #login-button {
+    background-color: #06d8ef;
+     margin: 17px 40px 20px 40px;
+     max-width: 340px;
+ }
+
+ #signup-button {
+    background-color: #1acb5b;
+    margin: 15px 40px 40px 40px;
+    max-width: 340px;
+}
+
+#cardWrapper {
+    margin-top: 40px;
+}
+
+#footer {
+    height: 100px;
+    width: auto;
+    margin:0px;
+}
+
+
+
+
+
